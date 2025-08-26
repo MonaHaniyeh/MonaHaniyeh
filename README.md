@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mona
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently UI UX Design
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ...
 - 😄 Pronouns: she
