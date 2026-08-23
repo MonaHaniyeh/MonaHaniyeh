@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mona
-- 👀 I’m interested in Web development & UI/UX Design 
-- 🌱 I’m currently learning UI UX Design and Front-end Development 
-- 💞️ I’m looking to collaborate on UI/UX projects, landing pages and web Apps
+- 👀 I’m interested in Full Stack Laravel & Front-end & UI/UX Design 
+- 🌱 I’m currently learning Full Stack Laravel  
+- 💞️ I’m looking to collaborate on Full Stack projects, UI/UX projects, landing pages and web Apps
 - 📫 How to reach me : https://www.linkedin.com/in/mona-haniyeh
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I redesign apps in my head before sleeping.
