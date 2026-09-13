@@ -1,681 +1,203 @@
-<!-- ========================================================= -->
-<!-- MONA HANIYEH - GITHUB PROFILE README                      -->
-<!-- ========================================================= -->
-
-<!-- ========================= HERO ========================== -->
-
+<!-- ================= HEADER BANNER ================= -->
 <div align="center">
-
-<img src="./assets/banner.png" width="100%" alt="Mona Haniyeh Developer Banner">
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-F5A3C7?style=flat-square&labelColor=07111F&color=F5A3C7">
-  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-F5A3C7?style=flat-square&labelColor=07111F&color=F5A3C7">
-  <img src="https://img.shields.io/badge/UI%2FUX%20DESIGNER-F5A3C7?style=flat-square&labelColor=07111F&color=F5A3C7">
-</p>
-
-<p>
-  <strong>Design it</strong>
-  &nbsp; • &nbsp;
-  <strong>Code it</strong>
-  &nbsp; • &nbsp;
-  <strong>Build it</strong>
-  &nbsp; ♡
-</p>
-
+  <img src="assets/banner.png" width="100%" alt="Profile banner" />
 </div>
 
-<br>
+<h1 align="center">Your Name Here</h1>
+<h3 align="center">Front-End Developer | Full-Stack Developer | UI/UX Designer</h3>
 
-<!-- ========================= ABOUT ========================= -->
+<p align="center">
+  Design it • Code it • Build it 💜
+</p>
+
+<br/>
+
+<!-- ================= ABOUT ME ================= -->
+## 👋 About Me
 
 <table>
 <tr>
-<td width="100%">
+<td width="60%">
 
-<h2>🌷 &nbsp; About Me</h2>
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-<p>
-I'm <strong>Mona</strong>, a Front-End & Full-Stack Developer
-and UI/UX Designer with a background in Software Engineering.
-</p>
-
-<p>
-I enjoy building responsive web applications, creating
-beautiful interfaces, and turning ideas into real products.
-</p>
-
-<p>
-My main focus is creating clean, practical and user-friendly
-digital experiences while continuously improving my
-software engineering skills.
-</p>
+I'm **Your Name**, a Front-End & Full-Stack Developer and UI/UX Designer with a
+background in Software Engineering. I enjoy building responsive web applications,
+creating beautiful interfaces, and turning ideas into real products.
 
 </td>
+<td width="40%">
 
-<td width="42%" valign="top">
-
-<p>⚙️ &nbsp; Front-End Development</p>
-
-<p>▣ &nbsp; Full-Stack Development (Laravel)</p>
-
-<p>🎨 &nbsp; UI/UX Design</p>
-
-<p>⌘ &nbsp; API Integration</p>
-
-<p>▤ &nbsp; Database Development</p>
-
-<p>♧ &nbsp; Clean Code & Problem Solving</p>
-
-</td>
-
-</tr>
-</table>
+- 🎨 Front-End Development
+- 🧩 Full-Stack Development (Laravel)
+- 🖌️ UI/UX Design
+- 🔌 API Integration
+- 🗄️ Database Development
+- ✅ Clean Code & Problem Solving
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- ======================= TECH STACK ====================== -->
+<!-- ================= TECH STACK ================= -->
+## 💻 Tech Stack
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=java" />
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<br/>
+
+<!-- ================= WHAT I BUILD ================= -->
+## 🚀 What I Build
+
+- ✅ Responsive web applications
+- ✅ Full-stack Laravel applications
+- ✅ REST APIs
+- ✅ Database-driven systems
+- ✅ Interactive front-end interfaces
+- ✅ Authentication & role-based systems
+- ✅ Real-time features
+- ✅ AI-powered web experiences
+
+<br/>
+
+<!-- ================= FEATURED PROJECTS ================= -->
+## 🛰️ Featured Projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="33%">
 
-<h2>💻 &nbsp; Tech Stack</h2>
+**⚖️ ProjectName**
+<br/>
+Legal Management Platform
+<br/>
+`Laravel` `MySQL` `Blade` `Tailwind`
+<br/>
+[View Project →](#)
 
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-<h3>🌿 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-
-<br><br>
-
-<sub>HTML &nbsp; CSS &nbsp; JavaScript</sub>
-
-<br>
-
-<sub>React &nbsp; Tailwind</sub>
+<img src="assets/project1.png" width="100%" />
 
 </td>
+<td width="33%">
 
-<td width="33%" align="center">
+**🌱 ProjectName**
+<br/>
+AI-Powered Learning Platform
+<br/>
+`React` `Laravel` `MySQL`
+<br/>
+[View Project →](#)
 
-<h3>⚙️ Backend</h3>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" />
-
-<br><br>
-
-<sub>PHP &nbsp; Laravel &nbsp; MySQL</sub>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>◎ Programming</h3>
-
-<img src="https://skillicons.dev/icons?i=java&theme=dark" />
-
-<br><br>
-
-<sub>Java</sub>
+<img src="assets/project2.png" width="100%" />
 
 </td>
+<td width="33%">
 
-</tr>
+**🩹 ProjectName**
+<br/>
+AI-assisted emergency app
+<br/>
+`AI` `Web` `n8n`
+<br/>
+[View Project →](#)
 
-<tr>
-
-<td width="33%" align="center">
-
-<h3>🎨 Design</h3>
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-
-<br><br>
-
-<sub>Figma</sub>
-<br>
-<sub>Framer</sub>
-
-</td>
-
-<td width="33%" align="center" colspan="2">
-
-<h3>🛠 Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-<br><br>
-
-<sub>Git &nbsp; GitHub &nbsp; VS Code &nbsp; Postman</sub>
-
-</td>
-
-</tr>
-
-</table>
+<img src="assets/project3.png" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- ====================== WHAT I BUILD ===================== -->
-
+<!-- ================= DEVELOPMENT FOCUS + GITHUB STATS ================= -->
 <table>
 <tr>
-
-<td width="70%" valign="top">
-
-<h2>🛠️ &nbsp; What I Build</h2>
-
-<p>✓ &nbsp; Responsive web applications</p>
-<p>✓ &nbsp; Full-stack Laravel applications</p>
-<p>✓ &nbsp; REST APIs</p>
-<p>✓ &nbsp; Database-driven systems</p>
-<p>✓ &nbsp; Interactive front-end interfaces</p>
-<p>✓ &nbsp; Authentication & role-based systems</p>
-<p>✓ &nbsp; Real-time features</p>
-<p>✓ &nbsp; AI-powered web experiences</p>
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<br>
-
-<h3>⌁</h3>
-
-<br>
-
-<em>
-Ideas
-<br>
-+
-<br>
-Code
-<br>
-+
-<br>
-Real Products
-</em>
-
-<br><br>
-
-🌷
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ==================== FEATURED PROJECTS ================= -->
-
-<h2 align="center">🚀 &nbsp; Featured Projects</h2>
-
-<br>
-
-<table>
-
-<tr>
-
-<!-- LAW FIRM -->
-
-<td width="33%" valign="top">
-
-<h3>⚖️ &nbsp; LawFirm</h3>
-
-<p>
-<sub>Legal Management Platform</sub>
-</p>
-
-<p align="center">
-<img src="./assets/lawfirm.png" width="100%" alt="LawFirm">
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Laravel-07111F?style=flat-square&logo=laravel&logoColor=FF6B81">
-
-<img src="https://img.shields.io/badge/MySQL-07111F?style=flat-square&logo=mysql&logoColor=69C7FF">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Blade-07111F?style=flat-square&logo=laravel&logoColor=F5A3C7">
-
-<img src="https://img.shields.io/badge/Tailwind-07111F?style=flat-square&logo=tailwindcss&logoColor=55D6BE">
-
-</p>
-
-<p align="center">
-<strong>View Project →</strong>
-</p>
-
-</td>
-
-<!-- RIFA -->
-
-<td width="33%" valign="top">
-
-<h3>🌱 &nbsp; RIFA</h3>
-
-<p>
-<sub>AI-Powered Learning Platform</sub>
-</p>
-
-<p align="center">
-<img src="./assets/rifa.png" width="100%" alt="RIFA">
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-07111F?style=flat-square&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Laravel-07111F?style=flat-square&logo=laravel&logoColor=FF6B81">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MySQL-07111F?style=flat-square&logo=mysql&logoColor=69C7FF">
-
-</p>
-
-<p align="center">
-<strong>View Project →</strong>
-</p>
-
-</td>
-
-<!-- NAJDA -->
-
-<td width="33%" valign="top">
-
-<h3>🚑 &nbsp; Najda AI Emergency</h3>
-
-<p>
-<sub>AI-assisted emergency & first-aid app</sub>
-</p>
-
-<p align="center">
-<img src="./assets/najda.png" width="100%" alt="Najda AI Emergency">
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI-07111F?style=flat-square&logo=openai&logoColor=F5A3C7">
-
-<img src="https://img.shields.io/badge/Web-07111F?style=flat-square&logo=googlechrome&logoColor=69C7FF">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/n8n-07111F?style=flat-square&logo=n8n&logoColor=EA4B71">
-
-</p>
-
-<p align="center">
-<strong>View Project →</strong>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<!-- ================= DEVELOPMENT + STATS ================== -->
-
-<table>
-<tr>
-
-<td width="45%" valign="top">
-
-<h2>🎯 &nbsp; Development Focus</h2>
-
-<br>
-
-<table>
-
-<tr>
-<td><strong>Front-End:</strong></td>
-<td>Responsive & interactive interfaces</td>
-</tr>
-
-<tr>
-<td><strong>Full-Stack:</strong></td>
-<td>Laravel, APIs, database systems</td>
-</tr>
-
-<tr>
-<td><strong>Software Engineering:</strong></td>
-<td>Architecture & maintainability</td>
-</tr>
-
-<tr>
-<td><strong>UI/UX:</strong></td>
-<td>Usability & better user experiences</td>
-</tr>
-
-</table>
-
-<br>
-
-<h3>My priorities</h3>
-
-<p>✦ Clean architecture</p>
-<p>✦ Maintainable code</p>
-<p>✦ Better UX</p>
-<p>✦ Real-world solutions</p>
-
-</td>
-
-<td width="55%" valign="top">
-
-<h2>📊 &nbsp; GitHub Stats</h2>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=MonaHaniyeh&show_icons=true&hide_border=true&bg_color=07111F&title_color=F5A3C7&icon_color=F5A3C7&text_color=C9D7E5"
-width="100%"
-alt="GitHub Statistics">
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaHaniyeh&layout=compact&hide_border=true&bg_color=07111F&title_color=F5A3C7&text_color=C9D7E5"
-width="75%"
-alt="Top Languages">
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ================= CURRENTLY LEARNING =================== -->
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-<h2>🌱 &nbsp; Currently Learning</h2>
-
-<br>
-
-<table>
-
-<tr>
-<td width="42%">
-Advanced Laravel & Full-Stack Development
-</td>
-<td>
-████████████████░░░░
-</td>
-</tr>
-
-<tr>
-<td>
-REST APIs & Backend Integrations
-</td>
-<td>
-███████████████░░░░░
-</td>
-</tr>
-
-<tr>
-<td>
-React & Modern Front-End Development
-</td>
-<td>
-██████████████░░░░░░
-</td>
-</tr>
-
-<tr>
-<td>
-Database Design
-</td>
-<td>
-█████████████░░░░░░░
-</td>
-</tr>
-
-<tr>
-<td>
-Clean Architecture & Best Practices
-</td>
-<td>
-███████████░░░░░░░░░
-</td>
-</tr>
-
-<tr>
-<td>
-Android Development (Java)
-</td>
-<td>
-████████░░░░░░░░░░░░
-</td>
-</tr>
-
-</table>
-
-</td>
-
-<td width="45%" valign="top">
-
-<h2>🎨 &nbsp; UI/UX Design</h2>
-
-<br>
-
-<p>
-I enjoy applying design principles to create simple,
-useful, and accessible interfaces for better user experiences.
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Figma-07111F?style=for-the-badge&logo=figma&logoColor=F24E1E">
-
-<img src="https://img.shields.io/badge/Framer-07111F?style=for-the-badge&logo=framer&logoColor=FFFFFF">
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Wireframing-07111F?style=for-the-badge&logoColor=F5A3C7">
-
-<img src="https://img.shields.io/badge/Prototyping-07111F?style=for-the-badge&logoColor=F5A3C7">
-
-</p>
-
-<br>
-
-<p align="center">
-🌷
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ===================== CIMALITE ========================= -->
-
-<table>
-<tr>
-
-<td width="100%" valign="top">
-
-<h2>💡 &nbsp; More Projects</h2>
-
-<table>
-
-<tr>
-
 <td width="50%" valign="top">
 
-<h3>🌐 &nbsp; Cimalite</h3>
+### 🎯 Development Focus
 
-<p>
-A modern digital project focused on creating
-a clean and practical user experience.
-</p>
-
-<p align="center">
-<img src="./assets/cimalite.png" width="90%" alt="Cimalite">
-</p>
+- **Front-End:** Responsive & interactive interfaces
+- **Full-Stack:** Laravel, APIs, database systems
+- **Software Engineering:** Architecture & maintainability
+- **UI/UX:** Usability & better user experiences
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" valign="middle">
+### 📊 GitHub Stats
 
-<h3>✦ Project Philosophy</h3>
-
-<p>
-I enjoy building projects that combine
-<strong>clean code</strong>, <strong>good design</strong>,
-and <strong>real-world problem solving</strong>.
-</p>
-
-<br>
-
-<p>
-<strong>Build → Test → Improve → Grow</strong>
-</p>
-
-<br>
-
-<p align="center">
-🌷 &nbsp; <em>Better code. Better ideas. Bigger dreams.</em> &nbsp; 🌷
-</p>
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- ====================== CONNECT ========================== -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" width="100%" />
 
+<br/>
+
+<!-- ================= CURRENTLY LEARNING + UI/UX ================= -->
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="100%">
+### 📚 Currently Learning
 
-<h2>🔗 &nbsp; Let's Connect</h2>
-
-<br>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mona-haniyeh">
-<img src="https://img.shields.io/badge/LinkedIn-07111F?style=for-the-badge&logo=linkedin&logoColor=F5A3C7">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/MonaHaniyeh">
-<img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://mona-haniyeh.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-07111F?style=for-the-badge&logo=vercel&logoColor=F5A3C7">
-</a>
-
-</p>
-
-<br>
-
-<hr>
-
-<p align="center">
-
-<strong>Mona Haniyeh</strong>
-
-&nbsp; | &nbsp;
-
-Code
-
-&nbsp; • &nbsp;
-
-Design
-
-&nbsp; • &nbsp;
-
-Build
-
-&nbsp; • &nbsp;
-
-Grow
-
-&nbsp; 🌷
-
-</p>
+| Skill | Progress |
+|---|---|
+| Advanced Laravel & Full-Stack Dev | ████████░░ 80% |
+| REST APIs & Backend Integration | ██████░░░░ 60% |
+| React & Modern Front-End Dev | ███████░░░ 70% |
+| Database Design | █████████░ 90% |
+| Clean Architecture & Best Practices | ███░░░░░░░ 30% |
+| Android Development (Java) | ██░░░░░░░░ 20% |
 
 </td>
+<td width="40%" valign="top">
 
+### 🎨 UI/UX Design
+
+I enjoy applying design principles to create simple, useful, and accessible
+interfaces for better user experiences.
+
+`Figma` `Framer` `Wireframing` `Prototyping`
+
+</td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<!-- ======================== FOOTER ======================== -->
+<!-- ================= CONNECT ================= -->
+## 🔗 Let's Connect
 
-<div align="center">
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<img src="./assets/banner.png" width="100%" alt="Mona Haniyeh">
-
-<br><br>
-
-<sub>
-🌷 Thanks for visiting my profile ♡
-</sub>
-
-</div>
+<p align="center">
+  <sub>Your Name | Code • Design • Build • Grow 🌷</sub>
+</p>
