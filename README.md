@@ -1,12 +1,12 @@
 <!-- ============================================================
-     PREMIUM GITHUB PROFILE README
+     PREMIUM GITHUB PROFILE README — @MonaHaniyeh
      Color palette: Deep navy/purple bg (#0d1117 / #1a1b2e)
      Accents: Magenta/Pink (#ff4da6) • Purple (#a374ff) • Teal (#4dd0e1)
      ============================================================ -->
 
 <div align="center">
 
-<!-- Animated gradient banner (capsule-render) -->
+<!-- Animated gradient banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:6d28d9,100:ff4da6&height=220&section=header&text=Mona%20Haniyeh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Full-Stack%20Developer%20%7C%20UI/UX%20Designer&descAlignY=58&descSize=18&descColor=e0c3fc" />
 
 <!-- Typing animation -->
@@ -23,12 +23,16 @@
 <a href="https://your-portfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-1a1b2e?style=for-the-badge&logo=vercel&logoColor=A374FF" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:mona.haniyeh@email.com">
   <img src="https://img.shields.io/badge/Email-1a1b2e?style=for-the-badge&logo=gmail&logoColor=4DD0E1" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/MonaHaniyeh">
   <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MonaHaniyeh&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -166,7 +170,7 @@ const mona = {
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="assets/project1.png" width="100%" style="border-radius:8px" />
+<img src="assets/lawfirm.png" width="100%" style="border-radius:8px" />
 
 **⚖️ LawFirm**
 <br/>
@@ -174,12 +178,13 @@ Legal Management Platform
 <br/><br/>
 ![Laravel](https://img.shields.io/badge/-Laravel-FF4DA6?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-A374FF?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-4DD0E1?style=flat-square&logo=tailwindcss&logoColor=white)
 <br/>
 [**View Project →**](#)
 
 </td>
 <td width="33%" valign="top">
-<img src="assets/project2.png" width="100%" style="border-radius:8px" />
+<img src="assets/rifa.png" width="100%" style="border-radius:8px" />
 
 **🌱 RIFA**
 <br/>
@@ -187,12 +192,13 @@ AI-Powered Learning Platform
 <br/><br/>
 ![React](https://img.shields.io/badge/-React-4DD0E1?style=flat-square&logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF4DA6?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-A374FF?style=flat-square&logo=mysql&logoColor=white)
 <br/>
 [**View Project →**](#)
 
 </td>
 <td width="33%" valign="top">
-<img src="assets/project3.png" width="100%" style="border-radius:8px" />
+<img src="assets/najda.png" width="100%" style="border-radius:8px" />
 
 **🩹 Najda AI Emergency**
 <br/>
@@ -216,16 +222,16 @@ AI-assisted emergency & first-aid app
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4DA6&icon_color=4DD0E1&text_color=e0c3fc" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4DA6&fire=A374FF&currStreakLabel=4DD0E1&sideLabels=e0c3fc&currStreakNum=e0c3fc&sideNums=e0c3fc&dates=7c7c9c" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MonaHaniyeh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4DA6&icon_color=4DD0E1&text_color=e0c3fc" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MonaHaniyeh&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4DA6&fire=A374FF&currStreakLabel=4DD0E1&sideLabels=e0c3fc&currStreakNum=e0c3fc&sideNums=e0c3fc&dates=7c7c9c" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=4DD0E1&line=FF4DA6&point=A374FF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MonaHaniyeh&bg_color=0D1117&color=4DD0E1&line=FF4DA6&point=A374FF&area=true&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4DA6&text_color=e0c3fc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaHaniyeh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4DA6&text_color=e0c3fc" />
 
 </div>
 
