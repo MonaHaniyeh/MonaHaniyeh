@@ -9,10 +9,8 @@
 <!-- Custom banner image -->
 <img src="assets/banner.png" width="100%" alt="Mona Haniyeh banner" />
 
-<!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4DA6&center=true&vCenter=true&width=600&lines=Design+it.+Code+it.+Build+it.+💜;Turning+ideas+into+real+products;Laravel+%7C+React+%7C+UI%2FUX+Designer" alt="Typing SVG" />
-</a>
+<!-- Typing animation (self-hosted, no third-party dependency) -->
+<img src="assets/typing.svg" alt="Design it. Code it. Build it." />
 
 <br/>
 
