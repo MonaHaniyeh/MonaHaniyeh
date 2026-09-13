@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<!-- Animated gradient banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:6d28d9,100:ff4da6&height=220&section=header&text=Mona%20Haniyeh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20%7C%20Full-Stack%20Developer%20%7C%20UI/UX%20Designer&descAlignY=58&descSize=18&descColor=e0c3fc" />
+<!-- Custom banner image -->
+<img src="assets/banner.png" width="100%" alt="Mona Haniyeh banner" />
 
 <!-- Typing animation -->
 <a href="#">
@@ -17,14 +17,8 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/mona-haniyeh">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=FF4DA6" />
-</a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-1a1b2e?style=for-the-badge&logo=vercel&logoColor=A374FF" />
-</a>
-<a href="mailto:mona.haniyeh@email.com">
-  <img src="https://img.shields.io/badge/Email-1a1b2e?style=for-the-badge&logo=gmail&logoColor=4DD0E1" />
 </a>
 <a href="https://github.com/MonaHaniyeh">
   <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
@@ -47,10 +41,12 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm **Mona**, a Front-End & Full-Stack Developer and UI/UX Designer with a
-background in Software Engineering. I enjoy building responsive web
-applications, crafting clean interfaces, and turning ideas into real,
-usable products.
+Full-Stack Developer and UI/UX Designer with a strong foundation in software
+engineering and experience building user-centered web applications using
+Laravel, MySQL, React, JavaScript, HTML, CSS, and Tailwind CSS. Skilled in
+UI/UX design, prototyping, and usability, with experience integrating AI
+tools to accelerate development and deliver clean, responsive, and
+functional digital products.
 
 ```js
 const mona = {
@@ -73,6 +69,7 @@ const mona = {
 | 🖌️ | UI/UX Design |
 | 🔌 | REST API Integration |
 | 🗄️ | Database Architecture |
+| 🎓 | B.Sc. Software Engineering |
 | 📍 | Amman, Jordan |
 
 </td>
@@ -99,14 +96,14 @@ const mona = {
 
 **Backend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,java&theme=dark" />
 
 </td>
 <td align="center" width="20%">
 
-**Language**
+**Cloud**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
 </td>
 <td align="center" width="20%">
@@ -125,6 +122,19 @@ const mona = {
 </td>
 </tr>
 </table>
+
+<br/>
+
+**🤖 AI & Development Tools**
+<br/><br/>
+![Claude](https://img.shields.io/badge/-Claude%20Code-FF4DA6?style=flat-square&logo=anthropic&logoColor=white)
+![Figma Make](https://img.shields.io/badge/-Figma%20Make-A374FF?style=flat-square&logo=figma&logoColor=white)
+![Replit](https://img.shields.io/badge/-Replit-4DD0E1?style=flat-square&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF4DA6?style=flat-square&logo=heart&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-A374FF?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4DD0E1?style=flat-square&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-FF4DA6?style=flat-square)
+![NotebookLM](https://img.shields.io/badge/-NotebookLM-A374FF?style=flat-square&logo=googlecloud&logoColor=white)
 
 <br/>
 
@@ -150,9 +160,9 @@ const mona = {
 
 ✅ Interactive front-end interfaces
 <br/>
-✅ Authentication & role-based systems
+✅ User-centered UI/UX design
 <br/>
-✅ Real-time features
+✅ Prototypes with animation & micro-interactions
 <br/>
 ✅ AI-powered web experiences
 
@@ -200,12 +210,12 @@ AI-Powered Learning Platform
 <td width="33%" valign="top">
 <img src="assets/najda.png" width="100%" style="border-radius:8px" />
 
-**🩹 Najda AI Emergency**
+**🩹 Najda-AI**
 <br/>
-AI-assisted emergency & first-aid app
+Intelligent First Aid Assistant for high-pressure moments — built at the Kanz AI Training Hackathon (LAU Academy)
 <br/><br/>
 ![AI](https://img.shields.io/badge/-AI-A374FF?style=flat-square&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-4DD0E1?style=flat-square&logo=n8n&logoColor=white)
+![Hackathon](https://img.shields.io/badge/-Hackathon-4DD0E1?style=flat-square&logo=trophy&logoColor=white)
 <br/>
 [**View Project →**](#)
 
@@ -237,6 +247,53 @@ AI-assisted emergency & first-aid app
 
 <br/>
 
+<!-- ================= EDUCATION & CERTIFICATIONS ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education & Training
+
+**B.Sc. Software Engineering (IT)**
+<br/>
+Al-Balqa Applied University — GPA 3.45
+<br/>
+<sub>Oct 2021 – Jul 2025</sub>
+
+**Full-Stack Laravel Training**
+<br/>
+Robotna & DigiSkills
+<br/>
+<sub>May 2026 – Present</sub>
+
+**UI/UX Design**
+<br/>
+The Hope International Company
+<br/>
+<sub>Jun 2025 – Sep 2025</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Certifications
+
+- AWS Certified Cloud Practitioner — AWS *(Oct 2025)*
+- UI/UX Design — The Hope International Company *(Oct 2025)*
+- UI/UX Design Training — The Hope International Trading & Investment Co.
+- Guinness World Record — AI Training Hackathon
+- AI Training Hackathon — Kanz AI, LAU Academy *(Jul 2026)*
+- Programming Fundamentals — Hello Gates & JoCodes
+
+**Courses:** Figma UI/UX Essentials & Advanced (Udemy) · AWS Cloud Practitioner Essentials
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ================= FOCUS + LEARNING ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
 
@@ -251,18 +308,18 @@ AI-assisted emergency & first-aid app
 | **Front-End** | Responsive & interactive interfaces |
 | **Full-Stack** | Laravel, APIs, database systems |
 | **Engineering** | Architecture & maintainability |
-| **UI/UX** | Usability & better user experiences |
+| **UI/UX** | User-centered design & usability |
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Currently Learning
+### 🎨 UI/UX Toolkit
 
-`Advanced Laravel` `REST APIs` `React` `Database Design` `Clean Architecture` `Android (Java)`
+`User-Centered Design` `Personas` `User Flows` `Task Flows` `Wireframing` `Prototyping` `Sketching` `Visual Design` `A/B Testing` `Animation & Micro-interactions`
 
-**🎨 UI/UX Toolkit**
+**🌍 Languages**
 <br/>
-`Figma` `Framer` `Wireframing` `Prototyping`
+English (Very Good) · Arabic (Native)
 
 </td>
 </tr>
