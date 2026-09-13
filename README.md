@@ -9,6 +9,9 @@
 <!-- Custom banner image -->
 <img src="assets/banner.png" width="100%" alt="Mona Haniyeh banner" />
 
+<!-- Terminal-style ASCII greeting (self-hosted, no third-party dependency) -->
+<img src="assets/terminal-banner.svg" alt="Hello World — system online, welcome" />
+
 <!-- Typing animation (self-hosted, no third-party dependency) -->
 <img src="assets/typing.svg" alt="Design it. Code it. Build it." />
 
