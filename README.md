@@ -259,25 +259,40 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 ### 🎓 Education & Training
 
-| Program | Institution | Period |
-|---|---|---|
-| B.Sc. Software Engineering (IT) — GPA 3.45 | Al-Balqa Applied University | Oct 2021 – Jul 2025 |
-| Full-Stack Laravel Training | Robotna & DigiSkills | May 2026 – Present |
-| UI/UX Design | The Hope International Company | Jun 2025 – Sep 2025 |
+> **B.Sc. Software Engineering (IT)** · GPA 3.45
+> Al-Balqa Applied University
+> <sub>Oct 2021 – Jul 2025</sub>
+
+> **Full-Stack Laravel Training**
+> Robotna & DigiSkills
+> <sub>May 2026 – Present</sub>
+
+> **UI/UX Design**
+> The Hope International Company
+> <sub>Jun 2025 – Sep 2025</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏆 Certifications
 
-| Certification | Issuer | Date |
-|---|---|---|
-| AWS Certified Cloud Practitioner | Amazon Web Services | Oct 2025 |
-| UI/UX Design | The Hope International Company | Oct 2025 |
-| UI/UX Design Training | The Hope Int'l Trading & Investment Co. | — |
-| AI Training Hackathon — Najda-AI | Kanz AI × LAU Academy | Jul 2026 |
-| Guinness World Record | AI Training Hackathon | — |
-| Programming Fundamentals | Hello Gates & JoCodes | — |
+> **AWS Certified Cloud Practitioner**
+> Amazon Web Services · <sub>Oct 2025</sub>
+
+> **UI/UX Design**
+> The Hope International Company · <sub>Oct 2025</sub>
+
+> **UI/UX Design Training**
+> The Hope Int'l Trading & Investment Co.
+
+> **AI Training Hackathon — Najda-AI**
+> Kanz AI × LAU Academy · <sub>Jul 2026</sub>
+
+> **Guinness World Record**
+> AI Training Hackathon
+
+> **Programming Fundamentals**
+> Hello Gates & JoCodes
 
 <sub>**Courses:** Figma UI/UX Essentials & Advanced (Udemy) · AWS Cloud Practitioner Essentials</sub>
 
@@ -296,34 +311,34 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 ### 🎯 Development Focus
 
-🖥️ **Front-End** — Responsive & interactive interfaces
-<br/>
-🧱 **Full-Stack** — Laravel, APIs, database systems
-<br/>
-🏗️ **Engineering** — Architecture & maintainability
-<br/>
-🎨 **UI/UX** — User-centered design & usability
+> **🖥️ Front-End**
+> Responsive & interactive interfaces
+
+> **🧱 Full-Stack**
+> Laravel, APIs, database systems
+
+> **🏗️ Engineering**
+> Architecture & maintainability
+
+> **🎨 UI/UX**
+> User-centered design & usability
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 UI/UX Toolkit
 
-**Research & Strategy**
-<br/>
-`User-Centered Design` `Personas` `User Flows` `Task Flows`
+> **Research & Strategy**
+> ![](https://img.shields.io/badge/-User--Centered%20Design-1a1b2e?style=flat-square&labelColor=1a1b2e&color=FF4DA6) ![](https://img.shields.io/badge/-Personas-1a1b2e?style=flat-square&labelColor=1a1b2e&color=A374FF) ![](https://img.shields.io/badge/-User%20Flows-1a1b2e?style=flat-square&labelColor=1a1b2e&color=4DD0E1)
 
-**Design & Prototyping**
-<br/>
-`Wireframing` `Prototyping` `Sketching` `Visual Design`
+> **Design & Prototyping**
+> ![](https://img.shields.io/badge/-Wireframing-1a1b2e?style=flat-square&labelColor=1a1b2e&color=FF4DA6) ![](https://img.shields.io/badge/-Prototyping-1a1b2e?style=flat-square&labelColor=1a1b2e&color=A374FF) ![](https://img.shields.io/badge/-Visual%20Design-1a1b2e?style=flat-square&labelColor=1a1b2e&color=4DD0E1)
 
-**Validation**
-<br/>
-`A/B Testing` `Animation & Micro-interactions`
+> **Validation**
+> ![](https://img.shields.io/badge/-A%2FB%20Testing-1a1b2e?style=flat-square&labelColor=1a1b2e&color=FF4DA6) ![](https://img.shields.io/badge/-Micro--interactions-1a1b2e?style=flat-square&labelColor=1a1b2e&color=A374FF)
 
-**🌍 Languages**
-<br/>
-English (Very Good) · Arabic (Native)
+> **🌍 Languages**
+> English (Very Good) · Arabic (Native)
 
 </td>
 </tr>
