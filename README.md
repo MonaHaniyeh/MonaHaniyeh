@@ -35,40 +35,42 @@
 
 ## 🪞 About Me
 
+> Full-Stack Developer & UI/UX Designer turning ideas into clean, functional digital products.
+
+I build user-centered web applications with **Laravel, React, and MySQL**,
+pairing solid software-engineering fundamentals with a design-first
+mindset. My focus is writing maintainable code and shaping interfaces
+people genuinely enjoy using — while integrating AI tools to move faster
+without cutting corners.
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td align="center" width="25%">
 
-Full-Stack Developer and UI/UX Designer with a strong foundation in software
-engineering and experience building user-centered web applications using
-Laravel, MySQL, React, JavaScript, HTML, CSS, and Tailwind CSS. Skilled in
-UI/UX design, prototyping, and usability, with experience integrating AI
-tools to accelerate development and deliver clean, responsive, and
-functional digital products.
-
-```js
-const mona = {
-  role: "Full-Stack Developer & UI/UX Designer",
-  stack: ["Laravel", "React", "MySQL", "Tailwind"],
-  currentFocus: "Full-stack architecture + accessible design",
-  dreams: ["better code", "bigger goals", "brighter future"],
-};
-```
+**🎓 Background**
+<br/>
+B.Sc. Software<br/>Engineering
 
 </td>
-<td width="42%" valign="top">
+<td align="center" width="25%">
 
-**⚡ Quick Facts**
+**🧩 Specialty**
+<br/>
+Laravel<br/>Full-Stack
 
-| | |
-|---|---|
-| 🎨 | Front-End Development |
-| 🧩 | Full-Stack Dev (Laravel) |
-| 🖌️ | UI/UX Design |
-| 🔌 | REST API Integration |
-| 🗄️ | Database Architecture |
-| 🎓 | B.Sc. Software Engineering |
-| 📍 | Amman, Jordan |
+</td>
+<td align="center" width="25%">
+
+**🎨 Also Does**
+<br/>
+UI/UX<br/>Design
+
+</td>
+<td align="center" width="25%">
+
+**📍 Based In**
+<br/>
+Amman,<br/>Jordan
 
 </td>
 </tr>
@@ -143,30 +145,30 @@ const mona = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-✅ Responsive web applications
-<br/>
-✅ Full-stack Laravel applications
-<br/>
-✅ REST APIs & backend systems
-<br/>
-✅ Database-driven architectures
+**🖥️ Back-End & Architecture**
+
+- Full-stack Laravel applications
+- REST APIs & backend systems
+- Database-driven, scalable architectures
+- Authentication & role-based systems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-✅ Interactive front-end interfaces
-<br/>
-✅ User-centered UI/UX design
-<br/>
-✅ Prototypes with animation & micro-interactions
-<br/>
-✅ AI-powered web experiences
+**🎨 Front-End & Experience**
+
+- Responsive, accessible web interfaces
+- Interactive React components
+- User-centered UI/UX design
+- Prototypes with animation & micro-interactions
 
 </td>
 </tr>
 </table>
+
+<p align="center"><sub>+ AI-powered features woven into every product I ship</sub></p>
 
 <br/>
 
@@ -231,7 +233,7 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MonaHaniyeh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4DA6&icon_color=4DD0E1&text_color=e0c3fc" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MonaHaniyeh&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4DA6&fire=A374FF&currStreakLabel=4DD0E1&sideLabels=e0c3fc&currStreakNum=e0c3fc&sideNums=e0c3fc&dates=7c7c9c" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=MonaHaniyeh&hide_border=true&background=0D1117&stroke=0D1117&ring=FF4DA6&fire=A374FF&currStreakLabel=4DD0E1&sideLabels=e0c3fc&currStreakNum=e0c3fc&sideNums=e0c3fc&dates=7c7c9c" />
 
 <br/>
 
@@ -254,37 +256,27 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 ### 🎓 Education & Training
 
-**B.Sc. Software Engineering (IT)**
-<br/>
-Al-Balqa Applied University — GPA 3.45
-<br/>
-<sub>Oct 2021 – Jul 2025</sub>
-
-**Full-Stack Laravel Training**
-<br/>
-Robotna & DigiSkills
-<br/>
-<sub>May 2026 – Present</sub>
-
-**UI/UX Design**
-<br/>
-The Hope International Company
-<br/>
-<sub>Jun 2025 – Sep 2025</sub>
+| Program | Institution | Period |
+|---|---|---|
+| B.Sc. Software Engineering (IT) — GPA 3.45 | Al-Balqa Applied University | Oct 2021 – Jul 2025 |
+| Full-Stack Laravel Training | Robotna & DigiSkills | May 2026 – Present |
+| UI/UX Design | The Hope International Company | Jun 2025 – Sep 2025 |
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏆 Certifications
 
-- AWS Certified Cloud Practitioner — AWS *(Oct 2025)*
-- UI/UX Design — The Hope International Company *(Oct 2025)*
-- UI/UX Design Training — The Hope International Trading & Investment Co.
-- Guinness World Record — AI Training Hackathon
-- AI Training Hackathon — Kanz AI, LAU Academy *(Jul 2026)*
-- Programming Fundamentals — Hello Gates & JoCodes
+| Certification | Issuer | Date |
+|---|---|---|
+| AWS Certified Cloud Practitioner | Amazon Web Services | Oct 2025 |
+| UI/UX Design | The Hope International Company | Oct 2025 |
+| UI/UX Design Training | The Hope Int'l Trading & Investment Co. | — |
+| AI Training Hackathon — Najda-AI | Kanz AI × LAU Academy | Jul 2026 |
+| Guinness World Record | AI Training Hackathon | — |
+| Programming Fundamentals | Hello Gates & JoCodes | — |
 
-**Courses:** Figma UI/UX Essentials & Advanced (Udemy) · AWS Cloud Practitioner Essentials
+<sub>**Courses:** Figma UI/UX Essentials & Advanced (Udemy) · AWS Cloud Practitioner Essentials</sub>
 
 </td>
 </tr>
@@ -301,19 +293,30 @@ The Hope International Company
 
 ### 🎯 Development Focus
 
-| Area | Detail |
-|---|---|
-| **Front-End** | Responsive & interactive interfaces |
-| **Full-Stack** | Laravel, APIs, database systems |
-| **Engineering** | Architecture & maintainability |
-| **UI/UX** | User-centered design & usability |
+🖥️ **Front-End** — Responsive & interactive interfaces
+<br/>
+🧱 **Full-Stack** — Laravel, APIs, database systems
+<br/>
+🏗️ **Engineering** — Architecture & maintainability
+<br/>
+🎨 **UI/UX** — User-centered design & usability
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 UI/UX Toolkit
 
-`User-Centered Design` `Personas` `User Flows` `Task Flows` `Wireframing` `Prototyping` `Sketching` `Visual Design` `A/B Testing` `Animation & Micro-interactions`
+**Research & Strategy**
+<br/>
+`User-Centered Design` `Personas` `User Flows` `Task Flows`
+
+**Design & Prototyping**
+<br/>
+`Wireframing` `Prototyping` `Sketching` `Visual Design`
+
+**Validation**
+<br/>
+`A/B Testing` `Animation & Micro-interactions`
 
 **🌍 Languages**
 <br/>
