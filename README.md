@@ -180,7 +180,7 @@ const mona = {
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="assets/lawfirm.png" width="100%" style="border-radius:8px" />
+<img src="assets/lawfirm.png" width="100%" />
 
 **⚖️ LawFirm**
 <br/>
@@ -194,7 +194,7 @@ Legal Management Platform
 
 </td>
 <td width="33%" valign="top">
-<img src="assets/rifa.png" width="100%" style="border-radius:8px" />
+<img src="assets/rifa.png" width="100%" />
 
 **🌱 RIFA**
 <br/>
@@ -208,7 +208,7 @@ AI-Powered Learning Platform
 
 </td>
 <td width="33%" valign="top">
-<img src="assets/najda.png" width="100%" style="border-radius:8px" />
+<img src="assets/najda.png" width="100%" />
 
 **🩹 Najda-AI**
 <br/>
