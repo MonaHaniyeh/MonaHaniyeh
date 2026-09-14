@@ -203,9 +203,9 @@ Legal Management Platform
 <br/>
 AI-Powered Learning Platform
 <br/><br/>
-![React](https://img.shields.io/badge/-React-4DD0E1?style=flat-square&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF4DA6?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-A374FF?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-4DD0E1?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-A374FF?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF4DA6?style=flat-square&logo=javascript&logoColor=white)
 <br/>
 [**View Project →**](#)
 
