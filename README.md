@@ -35,7 +35,7 @@
 
 <!-- ================= ABOUT ================= --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
 🪞 About Me
-<img src="assets/about-terminal.svg" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" /> <br/> <!-- ================= TECH STACK ================= --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+<img src="assets/about-terminal.svg" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" /> <br/>
 
 <table>
 <tr>
