@@ -9,11 +9,8 @@
 <!-- Custom banner image -->
 <img src="assets/banner.png" width="100%" alt="Mona Haniyeh banner" />
 
-<!-- Terminal-style ASCII greeting (self-hosted, no third-party dependency) -->
-<img src="assets/terminal-banner.svg" alt="Hello World — system online, welcome" />
-
-<!-- Typing animation (self-hosted, no third-party dependency) -->
-<img src="assets/typing.svg" alt="Design it. Code it. Build it." />
+<!-- Terminal card: ASCII greeting + typing animation, one consistent framed unit -->
+<img src="assets/terminal-banner.svg" alt="Hello World — system online, welcome. Design it. Code it. Build it." />
 
 <br/>
 
@@ -25,7 +22,7 @@
   <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=MonaHaniyeh&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" />
 
