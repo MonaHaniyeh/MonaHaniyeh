@@ -51,35 +51,35 @@
 <tr>
 <td align="center" width="20%">
 
-**Frontend**
+**🎨 Frontend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 </td>
 <td align="center" width="20%">
 
-**Backend**
+**⚙️ Backend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java&theme=dark" />
 
 </td>
 <td align="center" width="20%">
 
-**Cloud**
+**☁️ Cloud**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
 </td>
 <td align="center" width="20%">
 
-**Design**
+**🖌️ Design**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 </td>
 <td align="center" width="20%">
 
-**Tools**
+**🧰 Tools**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
@@ -144,6 +144,7 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+
 <img src="assets/lawfirm.png" width="100%" />
 
 **⚖️ LawFirm**
@@ -158,6 +159,7 @@ Legal Management Platform
 
 </td>
 <td width="33%" valign="top">
+
 <img src="assets/rifa.png" width="100%" />
 
 **🌱 RIFA**
@@ -172,6 +174,7 @@ AI-Powered Learning Platform
 
 </td>
 <td width="33%" valign="top">
+
 <img src="assets/najda.jpeg" width="100%" />
 
 **🩹 Najda-AI**
@@ -209,6 +212,8 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 <!-- ================= EDUCATION & CERTIFICATIONS ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+
+## 🎓 Education & Certifications
 
 <table>
 <tr>
@@ -261,6 +266,8 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 <!-- ================= FOCUS + LEARNING ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+
+## 🎯 Development Focus & Toolkit
 
 <table>
 <tr>
