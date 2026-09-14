@@ -33,18 +33,9 @@
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
-
-## 🪞 About Me
-
-> Full-Stack Developer & UI/UX Designer turning ideas into clean, functional digital products.
-
-I build user-centered web applications with **Laravel, React, and MySQL**,
-pairing solid software-engineering fundamentals with a design-first
-mindset. My focus is writing maintainable code and shaping interfaces
-people genuinely enjoy using — while integrating AI tools to move faster
-without cutting corners.
+<!-- ================= ABOUT ================= --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+🪞 About Me
+<img src="assets/about-terminal.svg" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" /> <br/> <!-- ================= TECH STACK ================= --> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
 
 <table>
 <tr>
