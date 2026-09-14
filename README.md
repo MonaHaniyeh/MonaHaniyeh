@@ -10,22 +10,17 @@
 <img src="assets/banner.png" width="100%" alt="Mona Haniyeh banner" />
 
 <!-- Terminal card: ASCII greeting + typing animation, one consistent framed unit -->
-<img src="assets/terminal-banner.svg" alt="Hello World — system online, welcome. Design it. Code it. Build it." />
+<img src="assets/terminal-banner.svg" width="100%" alt="Hello World — system online, welcome. Design it. Code it. Build it." />
 
 <br/>
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/mona-haniyeh">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=FF4DA6" />
-</a>
+</a> 
 <a href="https://github.com/MonaHaniyeh">
   <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MonaHaniyeh&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" />
-
 </div>
 
 <br/>
