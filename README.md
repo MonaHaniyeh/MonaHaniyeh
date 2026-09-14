@@ -201,10 +201,6 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MonaHaniyeh&bg_color=0D1117&color=4DD0E1&line=FF4DA6&point=A374FF&area=true&hide_border=true" />
-
-<br/>
-
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MonaHaniyeh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4DA6&text_color=e0c3fc" />
 
 </div>
