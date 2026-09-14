@@ -172,7 +172,7 @@ AI-Powered Learning Platform
 
 </td>
 <td width="33%" valign="top">
-<img src="assets/najda.png" width="100%" />
+<img src="assets/najda.jpeg" width="100%" />
 
 **🩹 Najda-AI**
 <br/>
