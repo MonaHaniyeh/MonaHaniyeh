@@ -140,9 +140,9 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 ## 🌃 Contribution City
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-day-rainbow.svg">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city, rebuilt daily from real commit history" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib.yml">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib.yml">
+  <img src="profile-3d-contrib.yml" width="100%" alt="3D contribution city, rebuilt daily from real commit history" />
 </picture>
 
 <sub>Generated and committed automatically once a day by a GitHub Action — see Setup notes below.</sub>
