@@ -1,157 +1,1122 @@
-<svg width="1000" height="560" viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MmUyNjgyNy1hZDRkLTQ2N2QtOWIxOC0yOWEwZjE4NDExNGEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBneVQnqw0x+sow2HkPzzdcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowM2ViMjk2MC1lNDcwLTQ2MWQtYWZmZi00OTRkOGE2YmY2NDNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNooB94X1wVpKSAQipsW32bGwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggjorRccpy0zkOz/TZ5tCfJ+pZOmGwdfJNlC86rZoiRoCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI8Vjw58Fr7QBG/tkpuWKoYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD9A/0y1Ig2zd0Nk6nWJrdiifA7SQvWwJn6KPAU3lNZSmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUyZTI2ODI3LWFkNGQtNDY3ZC05YjE4LTI5YTBmMTg0MTE0YS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNlZThlZmYzLWFkMDYtNDZhNi04MzViLWE0NzYxNzgwZWNkZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCOitFxynLTOQ7P9Nnm0J8n6lk6YbB18k2ULzqtmiJGgKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggPyLuz9drMe0Ih1xob65I9VfGGIzzZvrqO++P9Dt3AtWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggvdN1Sm1yDCc5JyP8HK5prQ0bdF8NtotYar2/qxqk/A90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGxf2nKGXm8O7goXOFtlMsh9VjhIWh4AAKr3HQguc0T23qGtJo8bbCmdNTjZSzL6/lBN0KKz4zHQ5MZvCYP0bb4=</c2pa:manifest></metadata>
-  <rect x="0" y="0" width="1000" height="560" rx="14" fill="#0D1117" stroke="#2a2b45" stroke-width="1.5"/>
-
-  <text x="40" y="36" font-family="'Courier New',monospace" font-size="14" fill="#e0c3fc" font-weight="700">Tech Orbit</text>
-  <text x="40" y="54" font-family="'Courier New',monospace" font-size="10" fill="#7c7c9c">Tools in active rotation</text>
-
-  <!-- glowing core -->
-  <circle cx="500" cy="230" r="26" fill="#1a1b2e" stroke="url(#coreGrad)" stroke-width="2"/>
-  <text x="500" y="234" font-family="'Courier New',monospace" font-size="10" font-weight="700" fill="#e0c3fc" text-anchor="middle">MONA</text>
-  <circle cx="500" cy="230" r="26" fill="none" stroke="#FF4DA6" stroke-width="1" opacity="0.6">
-    <animate attributeName="r" values="26;40;26" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
+<svg
+  width="1000"
+  height="560"
+  viewBox="0 0 1000 560"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
   <defs>
+
+    <!-- Main gradient -->
+    <linearGradient id="mainGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF4DA6"/>
+      <stop offset="50%" stop-color="#A374FF"/>
+      <stop offset="100%" stop-color="#4DD0E1"/>
+    </linearGradient>
+
+    <!-- Core gradient -->
     <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FF4DA6"/>
       <stop offset="50%" stop-color="#A374FF"/>
       <stop offset="100%" stop-color="#4DD0E1"/>
     </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Small glow -->
+    <filter id="smallGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
-  <ellipse cx="500" cy="230" rx="160" ry="60" fill="none" stroke="#2a2b45" stroke-width="1" stroke-dasharray="3,4"/>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 500 230" to="360 500 230" dur="14s" repeatCount="indefinite"/>
-    <g transform="translate(660.0,230.0)">
-      <circle r="22" fill="#0D1117" stroke="#777BB4" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#777BB4" text-anchor="middle">PHP</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">PHP</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 660.0 230.0" to="-360 660.0 230.0" dur="14s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(420.0,282.0)">
-      <circle r="22" fill="#0D1117" stroke="#4479A1" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#4479A1" text-anchor="middle">MYSQ</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">MySQL</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 420.0 282.0" to="-360 420.0 282.0" dur="14s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(420.0,178.0)">
-      <circle r="22" fill="#0D1117" stroke="#EA2D2E" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#EA2D2E" text-anchor="middle">JAVA</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">Java</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 420.0 178.0" to="-360 420.0 178.0" dur="14s" repeatCount="indefinite" additive="sum"/>
-    </g>
-  </g>
-  <ellipse cx="500" cy="230" rx="260" ry="95" fill="none" stroke="#2a2b45" stroke-width="1" stroke-dasharray="3,4"/>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 500 230" to="360 500 230" dur="20s" repeatCount="indefinite"/>
-    <g transform="translate(760.0,230.0)">
-      <circle r="22" fill="#0D1117" stroke="#61DAFB" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#61DAFB" text-anchor="middle">REAC</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">React</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 760.0 230.0" to="-360 760.0 230.0" dur="20s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(500.0,325.0)">
-      <circle r="22" fill="#0D1117" stroke="#F7DF1E" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#F7DF1E" text-anchor="middle">JS</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">JS</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 500.0 325.0" to="-360 500.0 325.0" dur="20s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(240.0,230.0)">
-      <circle r="22" fill="#0D1117" stroke="#38BDF8" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#38BDF8" text-anchor="middle">TAIL</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">Tailwind</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 240.0 230.0" to="-360 240.0 230.0" dur="20s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(500.0,135.0)">
-      <circle r="22" fill="#0D1117" stroke="#E34F26" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#E34F26" text-anchor="middle">HTML</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">HTML</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 500.0 135.0" to="-360 500.0 135.0" dur="20s" repeatCount="indefinite" additive="sum"/>
-    </g>
-  </g>
-  <ellipse cx="500" cy="230" rx="360" ry="130" fill="none" stroke="#2a2b45" stroke-width="1" stroke-dasharray="3,4"/>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 500 230" to="360 500 230" dur="28s" repeatCount="indefinite"/>
-    <g transform="translate(860.0,230.0)">
-      <circle r="22" fill="#0D1117" stroke="#F24E1E" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#F24E1E" text-anchor="middle">FIGM</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">Figma</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 860.0 230.0" to="-360 860.0 230.0" dur="28s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(320.0,342.6)">
-      <circle r="22" fill="#0D1117" stroke="#FF9900" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#FF9900" text-anchor="middle">AWS</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">AWS</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 320.0 342.6" to="-360 320.0 342.6" dur="28s" repeatCount="indefinite" additive="sum"/>
-    </g>
-    <g transform="translate(320.0,117.4)">
-      <circle r="22" fill="#0D1117" stroke="#1572B6" stroke-width="2"/>
-      <text x="0" y="-4" font-family="'Courier New',monospace" font-size="9" font-weight="700" fill="#1572B6" text-anchor="middle">CSS</text>
-      <text x="0" y="7" font-family="'Courier New',monospace" font-size="6" fill="#7c7c9c" text-anchor="middle">CSS</text>
-      <animateTransform attributeName="transform" type="rotate" from="0 320.0 117.4" to="-360 320.0 117.4" dur="28s" repeatCount="indefinite" additive="sum"/>
-    </g>
+
+  <!-- ===================================================== -->
+  <!-- BACKGROUND -->
+  <!-- ===================================================== -->
+
+  <rect
+    x="0"
+    y="0"
+    width="1000"
+    height="560"
+    rx="16"
+    fill="#0D1117"
+    stroke="#2A2B45"
+    stroke-width="1.5"
+  />
+
+
+  <!-- ===================================================== -->
+  <!-- HEADER -->
+  <!-- ===================================================== -->
+
+  <text
+    x="40"
+    y="38"
+    font-family="'Courier New', monospace"
+    font-size="15"
+    font-weight="700"
+    fill="#E0C3FC"
+  >
+    Tech Orbit
+  </text>
+
+  <text
+    x="40"
+    y="57"
+    font-family="'Courier New', monospace"
+    font-size="10"
+    fill="#7C7C9C"
+  >
+    Tools in active rotation
+  </text>
+
+
+  <!-- small status -->
+  <g transform="translate(842,30)">
+
+    <circle
+      cx="7"
+      cy="7"
+      r="4"
+      fill="#4DD0E1"
+      filter="url(#smallGlow)"
+    >
+      <animate
+        attributeName="opacity"
+        values="1;0.3;1"
+        dur="1.8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <text
+      x="17"
+      y="11"
+      font-family="'Courier New', monospace"
+      font-size="9"
+      fill="#7C7C9C"
+    >
+      ACTIVE STACK
+    </text>
+
   </g>
 
-  <line x1="24" y1="360" x2="976" y2="360" stroke="#2a2b45" stroke-width="1"/>
-<text x="40" y="400" font-family="'Courier New',monospace" font-size="10" fill="#7c7c9c">Frontend</text>
-<g transform="translate(40,414)" opacity="0">
-  <rect x="0" y="0" width="53" height="22" rx="11" fill="#12131f" stroke="#4DD0E1" stroke-width="1.3"/>
-  <text x="26.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#4DD0E1" text-anchor="middle">React</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05;0.08;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(103,414)" opacity="0">
-  <rect x="0" y="0" width="74" height="22" rx="11" fill="#12131f" stroke="#4DD0E1" stroke-width="1.3"/>
-  <text x="37.0" y="15" font-family="'Courier New',monospace" font-size="10" fill="#4DD0E1" text-anchor="middle">Tailwind</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07;0.10;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(187,414)" opacity="0">
-  <rect x="0" y="0" width="46" height="22" rx="11" fill="#12131f" stroke="#4DD0E1" stroke-width="1.3"/>
-  <text x="23.0" y="15" font-family="'Courier New',monospace" font-size="10" fill="#4DD0E1" text-anchor="middle">HTML</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09;0.12;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(243,414)" opacity="0">
-  <rect x="0" y="0" width="39" height="22" rx="11" fill="#12131f" stroke="#4DD0E1" stroke-width="1.3"/>
-  <text x="19.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#4DD0E1" text-anchor="middle">CSS</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.11;0.14;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(292,414)" opacity="0">
-  <rect x="0" y="0" width="32" height="22" rx="11" fill="#12131f" stroke="#4DD0E1" stroke-width="1.3"/>
-  <text x="16.0" y="15" font-family="'Courier New',monospace" font-size="10" fill="#4DD0E1" text-anchor="middle">JS</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.13;0.16;1" dur="3s" fill="freeze"/>
-</g>
-<text x="40" y="434" font-family="'Courier New',monospace" font-size="10" fill="#7c7c9c">Backend</text>
-<g transform="translate(40,448)" opacity="0">
-  <rect x="0" y="0" width="67" height="22" rx="11" fill="#12131f" stroke="#FF4DA6" stroke-width="1.3"/>
-  <text x="33.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#FF4DA6" text-anchor="middle">Laravel</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.13;0.16;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(117,448)" opacity="0">
-  <rect x="0" y="0" width="39" height="22" rx="11" fill="#12131f" stroke="#FF4DA6" stroke-width="1.3"/>
-  <text x="19.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#FF4DA6" text-anchor="middle">PHP</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15;0.18;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(166,448)" opacity="0">
-  <rect x="0" y="0" width="53" height="22" rx="11" fill="#12131f" stroke="#FF4DA6" stroke-width="1.3"/>
-  <text x="26.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#FF4DA6" text-anchor="middle">MySQL</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17;0.20;1" dur="3s" fill="freeze"/>
-</g>
-<g transform="translate(229,448)" opacity="0">
-  <rect x="0" y="0" width="46" height="22" rx="11" fill="#12131f" stroke="#FF4DA6" stroke-width="1.3"/>
-  <text x="23.0" y="15" font-family="'Courier New',monospace" font-size="10" fill="#FF4DA6" text-anchor="middle">Java</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19;0.22;1" dur="3s" fill="freeze"/>
-</g>
-<text x="40" y="468" font-family="'Courier New',monospace" font-size="10" fill="#7c7c9c">Design</text>
-<g transform="translate(40,482)" opacity="0">
-  <rect x="0" y="0" width="53" height="22" rx="11" fill="#12131f" stroke="#A374FF" stroke-width="1.3"/>
-  <text x="26.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#A374FF" text-anchor="middle">Figma</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21;0.24;1" dur="3s" fill="freeze"/>
-</g>
-<text x="40" y="502" font-family="'Courier New',monospace" font-size="10" fill="#7c7c9c">Cloud</text>
-<g transform="translate(40,516)" opacity="0">
-  <rect x="0" y="0" width="39" height="22" rx="11" fill="#12131f" stroke="#4DD0E1" stroke-width="1.3"/>
-  <text x="19.5" y="15" font-family="'Courier New',monospace" font-size="10" fill="#4DD0E1" text-anchor="middle">AWS</text>
-  <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.29;0.32;1" dur="3s" fill="freeze"/>
-</g>
+
+  <!-- ===================================================== -->
+  <!-- ORBIT AREA -->
+  <!-- ===================================================== -->
+
+  <!-- subtle center lines -->
+  <line
+    x1="500"
+    y1="85"
+    x2="500"
+    y2="375"
+    stroke="#2A2B45"
+    stroke-width="1"
+    opacity="0.25"
+  />
+
+  <line
+    x1="145"
+    y1="230"
+    x2="855"
+    y2="230"
+    stroke="#2A2B45"
+    stroke-width="1"
+    opacity="0.25"
+  />
+
+
+  <!-- ================= CENTER CORE ================= -->
+
+  <circle
+    cx="500"
+    cy="230"
+    r="34"
+    fill="#12131F"
+    stroke="url(#coreGrad)"
+    stroke-width="2"
+    filter="url(#smallGlow)"
+  />
+
+  <circle
+    cx="500"
+    cy="230"
+    r="27"
+    fill="#17182A"
+    stroke="#2A2B45"
+    stroke-width="1"
+  />
+
+  <text
+    x="500"
+    y="227"
+    font-family="'Courier New', monospace"
+    font-size="10"
+    font-weight="700"
+    fill="#FFFFFF"
+    text-anchor="middle"
+  >
+    MONA
+  </text>
+
+  <text
+    x="500"
+    y="239"
+    font-family="'Courier New', monospace"
+    font-size="7"
+    fill="#7C7C9C"
+    text-anchor="middle"
+  >
+    STACK
+  </text>
+
+
+  <!-- pulsing core -->
+  <circle
+    cx="500"
+    cy="230"
+    r="34"
+    fill="none"
+    stroke="#FF4DA6"
+    stroke-width="1"
+    opacity="0.5"
+  >
+    <animate
+      attributeName="r"
+      values="34;52;34"
+      dur="2.8s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0.5;0;0.5"
+      dur="2.8s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+
+  <!-- ===================================================== -->
+  <!-- ORBIT 1 -->
+  <!-- ===================================================== -->
+
+  <ellipse
+    cx="500"
+    cy="230"
+    rx="145"
+    ry="58"
+    fill="none"
+    stroke="#2A2B45"
+    stroke-width="1"
+    stroke-dasharray="3 5"
+  />
+
+
+  <!-- rotating group -->
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 500 230"
+      to="360 500 230"
+      dur="14s"
+      repeatCount="indefinite"
+    />
+
+    <!-- PHP -->
+    <g transform="translate(645,230)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#777BB4"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        font-weight="700"
+        fill="#777BB4"
+        text-anchor="middle"
+      >
+        PHP
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 645 230"
+        to="-360 645 230"
+        dur="14s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- Java -->
+    <g transform="translate(355,230)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#EA2D2E"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        font-weight="700"
+        fill="#EA2D2E"
+        text-anchor="middle"
+      >
+        JAVA
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 355 230"
+        to="-360 355 230"
+        dur="14s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- ORBIT 2 -->
+  <!-- ===================================================== -->
+
+  <ellipse
+    cx="500"
+    cy="230"
+    rx="245"
+    ry="92"
+    fill="none"
+    stroke="#2A2B45"
+    stroke-width="1"
+    stroke-dasharray="3 5"
+  />
+
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 500 230"
+      to="360 500 230"
+      dur="20s"
+      repeatCount="indefinite"
+    />
+
+
+    <!-- React -->
+    <g transform="translate(745,230)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#61DAFB"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="9"
+        font-weight="700"
+        fill="#61DAFB"
+        text-anchor="middle"
+      >
+        REACT
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 745 230"
+        to="-360 745 230"
+        dur="20s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- JavaScript -->
+    <g transform="translate(500,322)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#F7DF1E"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        font-weight="700"
+        fill="#F7DF1E"
+        text-anchor="middle"
+      >
+        JS
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 500 322"
+        to="-360 500 322"
+        dur="20s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- Tailwind -->
+    <g transform="translate(255,230)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#38BDF8"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="8"
+        font-weight="700"
+        fill="#38BDF8"
+        text-anchor="middle"
+      >
+        TAILWIND
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 255 230"
+        to="-360 255 230"
+        dur="20s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- HTML -->
+    <g transform="translate(500,138)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#E34F26"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="9"
+        font-weight="700"
+        fill="#E34F26"
+        text-anchor="middle"
+      >
+        HTML
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 500 138"
+        to="-360 500 138"
+        dur="20s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- ORBIT 3 -->
+  <!-- ===================================================== -->
+
+  <ellipse
+    cx="500"
+    cy="230"
+    rx="345"
+    ry="125"
+    fill="none"
+    stroke="#2A2B45"
+    stroke-width="1"
+    stroke-dasharray="3 6"
+  />
+
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 500 230"
+      to="360 500 230"
+      dur="28s"
+      repeatCount="indefinite"
+    />
+
+
+    <!-- Figma -->
+    <g transform="translate(845,230)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#F24E1E"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="9"
+        font-weight="700"
+        fill="#F24E1E"
+        text-anchor="middle"
+      >
+        FIGMA
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 845 230"
+        to="-360 845 230"
+        dur="28s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- AWS -->
+    <g transform="translate(672,339)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#FF9900"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        font-weight="700"
+        fill="#FF9900"
+        text-anchor="middle"
+      >
+        AWS
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 672 339"
+        to="-360 672 339"
+        dur="28s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- CSS -->
+    <g transform="translate(328,339)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#1572B6"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        font-weight="700"
+        fill="#1572B6"
+        text-anchor="middle"
+      >
+        CSS
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 328 339"
+        to="-360 328 339"
+        dur="28s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- MySQL -->
+    <g transform="translate(155,230)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#4479A1"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="8"
+        font-weight="700"
+        fill="#4479A1"
+        text-anchor="middle"
+      >
+        MYSQL
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 155 230"
+        to="-360 155 230"
+        dur="28s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- Laravel -->
+    <g transform="translate(328,121)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#FF2D20"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="8"
+        font-weight="700"
+        fill="#FF2D20"
+        text-anchor="middle"
+      >
+        LARAVEL
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 328 121"
+        to="-360 328 121"
+        dur="28s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+
+    <!-- Git -->
+    <g transform="translate(672,121)">
+
+      <circle
+        r="24"
+        fill="#0D1117"
+        stroke="#F05032"
+        stroke-width="2"
+      />
+
+      <text
+        x="0"
+        y="4"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        font-weight="700"
+        fill="#F05032"
+        text-anchor="middle"
+      >
+        GIT
+      </text>
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 672 121"
+        to="-360 672 121"
+        dur="28s"
+        repeatCount="indefinite"
+        additive="sum"
+      />
+
+    </g>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- DIVIDER -->
+  <!-- ===================================================== -->
+
+  <line
+    x1="32"
+    y1="385"
+    x2="968"
+    y2="385"
+    stroke="#2A2B45"
+    stroke-width="1"
+  />
+
+
+  <!-- ===================================================== -->
+  <!-- SKILL GRID -->
+  <!-- ===================================================== -->
+
+
+  <!-- FRONTEND -->
+  <g transform="translate(40,410)">
+
+    <text
+      x="0"
+      y="0"
+      font-family="'Courier New', monospace"
+      font-size="10"
+      fill="#7C7C9C"
+    >
+      FRONTEND
+    </text>
+
+
+    <!-- React -->
+    <g transform="translate(0,14)">
+
+      <rect
+        width="68"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#61DAFB"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="34"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#61DAFB"
+        text-anchor="middle"
+      >
+        React
+      </text>
+
+    </g>
+
+
+    <!-- Tailwind -->
+    <g transform="translate(76,14)">
+
+      <rect
+        width="82"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#38BDF8"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="41"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#38BDF8"
+        text-anchor="middle"
+      >
+        Tailwind
+      </text>
+
+    </g>
+
+
+    <!-- HTML -->
+    <g transform="translate(166,14)">
+
+      <rect
+        width="58"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#E34F26"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="29"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#E34F26"
+        text-anchor="middle"
+      >
+        HTML
+      </text>
+
+    </g>
+
+
+    <!-- CSS -->
+    <g transform="translate(232,14)">
+
+      <rect
+        width="48"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#1572B6"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="24"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#1572B6"
+        text-anchor="middle"
+      >
+        CSS
+      </text>
+
+    </g>
+
+
+    <!-- JS -->
+    <g transform="translate(288,14)">
+
+      <rect
+        width="42"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#F7DF1E"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="21"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#F7DF1E"
+        text-anchor="middle"
+      >
+        JS
+      </text>
+
+    </g>
+
+  </g>
+
+
+  <!-- BACKEND -->
+  <g transform="translate(40,470)">
+
+    <text
+      x="0"
+      y="0"
+      font-family="'Courier New', monospace"
+      font-size="10"
+      fill="#7C7C9C"
+    >
+      BACKEND
+    </text>
+
+
+    <!-- Laravel -->
+    <g transform="translate(0,14)">
+
+      <rect
+        width="78"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#FF2D20"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="39"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#FF2D20"
+        text-anchor="middle"
+      >
+        Laravel
+      </text>
+
+    </g>
+
+
+    <!-- PHP -->
+    <g transform="translate(86,14)">
+
+      <rect
+        width="50"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#777BB4"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="25"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#777BB4"
+        text-anchor="middle"
+      >
+        PHP
+      </text>
+
+    </g>
+
+
+    <!-- MySQL -->
+    <g transform="translate(144,14)">
+
+      <rect
+        width="66"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#4479A1"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="33"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#4479A1"
+        text-anchor="middle"
+      >
+        MySQL
+      </text>
+
+    </g>
+
+
+    <!-- Java -->
+    <g transform="translate(218,14)">
+
+      <rect
+        width="52"
+        height="24"
+        rx="12"
+        fill="#12131F"
+        stroke="#EA2D2E"
+        stroke-width="1.2"
+      />
+
+      <text
+        x="26"
+        y="16"
+        font-family="'Courier New', monospace"
+        font-size="10"
+        fill="#EA2D2E"
+        text-anchor="middle"
+      >
+        Java
+      </text>
+
+    </g>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- RIGHT SIDE MINI CATEGORIES -->
+  <!-- ===================================================== -->
+
+
+  <!-- DESIGN -->
+  <g transform="translate(610,410)">
+
+    <text
+      x="0"
+      y="0"
+      font-family="'Courier New', monospace"
+      font-size="10"
+      fill="#7C7C9C"
+    >
+      DESIGN
+    </text>
+
+    <rect
+      x="0"
+      y="14"
+      width="70"
+      height="24"
+      rx="12"
+      fill="#12131F"
+      stroke="#A374FF"
+      stroke-width="1.2"
+    />
+
+    <text
+      x="35"
+      y="30"
+      font-family="'Courier New', monospace"
+      font-size="10"
+      fill="#A374FF"
+      text-anchor="middle"
+    >
+      Figma
+    </text>
+
+  </g>
+
+
+  <!-- CLOUD -->
+  <g transform="translate(760,410)">
+
+    <text
+      x="0"
+      y="0"
+      font-family="'Courier New', monospace"
+      font-size="10"
+      fill="#7C7C9C"
+    >
+      CLOUD
+    </text>
+
+    <rect
+      x="0"
+      y="14"
+      width="58"
+      height="24"
+      rx="12"
+      fill="#12131F"
+      stroke="#FF9900"
+      stroke-width="1.2"
+    />
+
+    <text
+      x="29"
+      y="30"
+      font-family="'Courier New', monospace"
+      font-size="10"
+      fill="#FF9900"
+      text-anchor="middle"
+    >
+      AWS
+    </text>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- FOOTER -->
+  <!-- ===================================================== -->
+
+  <text
+    x="960"
+    y="530"
+    font-family="'Courier New', monospace"
+    font-size="9"
+    fill="#4DD0E1"
+    text-anchor="end"
+  >
+    // constantly learning
+  </text>
+
+
+  <!-- corner decorations -->
+
+  <g
+    stroke="#4DD0E1"
+    stroke-width="1.5"
+    fill="none"
+    opacity="0.8"
+  >
+
+    <path d="M24 30 L24 18 L36 18"/>
+
+    <path d="M976 530 L976 542 L964 542"/>
+
+  </g>
 
 </svg>
