@@ -1,85 +1,50 @@
 <!-- ============================================================
-     PREMIUM GITHUB PROFILE README — @MonaHaniyeh
-     Color palette: Deep navy/purple bg (#0d1117 / #1a1b2e)
-     Accents: Magenta/Pink (#ff4da6) • Purple (#a374ff) • Teal (#4dd0e1)
+     ANIMATED GITHUB PROFILE — @MonaHaniyeh
+     Fully self-contained SVGs (inline fonts/images, no external
+     network calls) + a daily-refreshing 3D contribution city.
+     Palette: navy/purple bg · pink #FF4DA6 · purple #A374FF · teal #4DD0E1
      ============================================================ -->
 
 <div align="center">
 
-<!-- Custom banner image -->
-<img src="assets/banner.png" width="100%" alt="Mona Haniyeh banner" />
-
-<!-- Terminal card: ASCII greeting + typing animation, one consistent framed unit -->
-<img src="assets/terminal-banner.svg" width="100%" alt="Hello World — system online, welcome. Design it. Code it. Build it." />
+<!-- 1 · HERO -->
+<img src="assets/hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
 
 <br/>
 
-<!-- Social badges -->
 <a href="https://www.linkedin.com/in/mona-haniyeh">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=FF4DA6" />
-</a> 
+</a>
 <a href="https://github.com/MonaHaniyeh">
   <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MonaHaniyeh&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" />
+
 </div>
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
-
+<!-- 2 · ABOUT ME (terminal) -->
 ## 🪞 About Me
 
-<img src="assets/about-terminal.svg" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" />
+<img src="assets/about-terminal.svg?v=1" width="100%" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" />
 
 <br/>
 
-<!-- ================= TECH STACK ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+<!-- 3 · WHAT I BUILD + FOCUS CAROUSEL -->
+## 🚀 What I Build
 
-## 🛠️ Tech Stack
-
-<table width="100%">
-<tr>
-<td align="center" width="20%">
-
-**🎨 Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-
-</td>
-<td align="center" width="20%">
-
-**⚙️ Backend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,java&theme=dark" />
-
-</td>
-<td align="center" width="20%">
-
-**☁️ Cloud**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-
-</td>
-<td align="center" width="20%">
-
-**🖌️ Design**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-
-</td>
-<td align="center" width="20%">
-
-**🧰 Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</td>
-</tr>
-</table>
+<img src="assets/about-build.svg?v=1" width="100%" alt="What I build, and current focus areas" />
 
 <br/>
+
+<!-- 4 · TECH ORBIT -->
+## 🛰️ Tech Stack
+
+<img src="assets/stack.svg?v=1" width="100%" alt="Tech stack orbiting a central core, grouped by category" />
 
 **🤖 AI & Development Tools**
 <br/><br/>
@@ -94,43 +59,14 @@
 
 <br/>
 
-<!-- ================= WHAT I BUILD ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+<!-- 5 · ID BADGE + LIVE SNAPSHOT -->
+## 🪪 ID Badge & Snapshot
 
-## 🚀 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🖥️ Back-End & Architecture**
-
-- Full-stack Laravel applications
-- REST APIs & backend systems
-- Database-driven, scalable architectures
-- Authentication & role-based systems
-
-</td>
-<td width="50%" valign="top">
-
-**🎨 Front-End & Experience**
-
-- Responsive, accessible web interfaces
-- Interactive React components
-- User-centered UI/UX design
-- Prototypes with animation & micro-interactions
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>+ AI-powered features woven into every product I ship</sub></p>
+<img src="assets/id-dashboard.svg?v=1" width="100%" alt="Developer ID badge and live snapshot dashboard" />
 
 <br/>
 
-<!-- ================= FEATURED PROJECTS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
-
+<!-- 6 · FEATURED PROJECTS -->
 ## 🧭 Featured Projects
 
 <table>
@@ -141,7 +77,7 @@
 
 **⚖️ LawFirm**
 <br/>
-Legal Management Platform
+Legal Management Platform · Capstone, 98/100 Gold Tier
 <br/><br/>
 ![Laravel](https://img.shields.io/badge/-Laravel-FF4DA6?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-A374FF?style=flat-square&logo=mysql&logoColor=white)
@@ -171,7 +107,7 @@ AI-Powered Learning Platform
 
 **🩹 Najda-AI**
 <br/>
-Intelligent First Aid Assistant for high-pressure moments — built at the Kanz AI Training Hackathon (LAU Academy)
+Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 <br/><br/>
 ![AI](https://img.shields.io/badge/-AI-A374FF?style=flat-square&logo=openai&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/-Hackathon-4DD0E1?style=flat-square&logo=trophy&logoColor=white)
@@ -184,9 +120,7 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 <br/>
 
-<!-- ================= STATS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
-
+<!-- 7 · GITHUB ANALYTICS -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -202,9 +136,20 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 <br/>
 
-<!-- ================= EDUCATION & CERTIFICATIONS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
+<!-- 8 · 3D CONTRIBUTION CITY (self-hosted, refreshes daily via GitHub Action) -->
+## 🌃 Contribution City
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-day-rainbow.svg">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city, rebuilt daily from real commit history" />
+</picture>
+
+<sub>Generated and committed automatically once a day by a GitHub Action — see Setup notes below.</sub>
+
+<br/>
+
+<!-- 9 · EDUCATION & CERTIFICATIONS -->
 ## 🎓 Education & Certifications
 
 <table>
@@ -256,33 +201,8 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 
 <br/>
 
-<!-- ================= FOCUS + LEARNING ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b2e,100:1a1b2e&height=2" width="100%"/>
-
-## 🎯 Development Focus & Toolkit
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Development Focus
-
-> **🖥️ Front-End**
-> Responsive & interactive interfaces
-
-> **🧱 Full-Stack**
-> Laravel, APIs, database systems
-
-> **🏗️ Engineering**
-> Architecture & maintainability
-
-> **🎨 UI/UX**
-> User-centered design & usability
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 UI/UX Toolkit
+<!-- 10 · UI/UX TOOLKIT -->
+## 🎨 UI/UX Toolkit
 
 > **Research & Strategy**
 > ![](https://img.shields.io/badge/-User--Centered%20Design-1a1b2e?style=flat-square&labelColor=1a1b2e&color=FF4DA6) ![](https://img.shields.io/badge/-Personas-1a1b2e?style=flat-square&labelColor=1a1b2e&color=A374FF) ![](https://img.shields.io/badge/-User%20Flows-1a1b2e?style=flat-square&labelColor=1a1b2e&color=4DD0E1)
@@ -296,14 +216,10 @@ Intelligent First Aid Assistant for high-pressure moments — built at the Kanz 
 > **🌍 Languages**
 > English (Very Good) · Arabic (Native)
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- ================= FOOTER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4da6,50:6d28d9,100:1a1b2e&height=120&section=footer" />
+<!-- 11 · CONNECT -->
+<img src="assets/connect.svg?v=1" width="100%" alt="Let's connect — LinkedIn and GitHub" />
 
 <p align="center">
   <sub>Mona Haniyeh &nbsp;|&nbsp; Code • Design • Build • Grow 🌷</sub>
