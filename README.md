@@ -9,9 +9,7 @@
 
 <!-- 1 · HERO -->
 <img src="assets/hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MonaHaniyeh.MonaHaniyeh&left_text=PROFILE%20VIEWS" />
+<br/>
 
 </div>
 
