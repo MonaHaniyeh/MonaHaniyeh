@@ -148,7 +148,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 
 > **Full-Stack Laravel Training**
 > Robotna & DigiSkills
-> <sub>May 2026 – Present</sub>
+> <sub>May 2026 – Sep 2026</sub>
 
 > **UI/UX Design**
 > The Hope International Company
