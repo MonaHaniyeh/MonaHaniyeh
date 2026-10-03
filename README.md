@@ -10,15 +10,6 @@
 <!-- 1 · HERO -->
 <img src="assets/hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
 
-<br/>
-
-<a href="https://www.linkedin.com/in/mona-haniyeh">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=FF4DA6" />
-</a>
-<a href="https://github.com/MonaHaniyeh">
-  <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=MonaHaniyeh&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" />
