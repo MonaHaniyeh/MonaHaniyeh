@@ -8,9 +8,20 @@
 <div align="center">
 
 <!-- 1 · HERO -->
-<img src="assets/hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
+<img src="hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
 
 <br/>
+
+<a href="https://www.linkedin.com/in/mona-haniyeh">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=FF4DA6" />
+</a>
+<a href="https://github.com/MonaHaniyeh">
+  <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MonaHaniyeh&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -19,21 +30,21 @@
 <!-- 2 · ABOUT ME (terminal) -->
 ## 🪞 About Me
 
-<img src="assets/about-terminal.svg?v=1" width="100%" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" />
+<img src="about-terminal.svg?v=1" width="100%" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" />
 
 <br/>
 
 <!-- 3 · WHAT I BUILD + FOCUS CAROUSEL -->
 ## 🚀 What I Build
 
-<img src="assets/about-build.svg?v=1" width="100%" alt="What I build, and current focus areas" />
+<img src="about-build.svg?v=1" width="100%" alt="What I build, and current focus areas" />
 
 <br/>
 
 <!-- 4 · TECH ORBIT -->
 ## 🛰️ Tech Stack
 
-<img src="assets/stack.svg?v=1" width="100%" alt="Tech stack orbiting a central core, grouped by category" />
+<img src="stack.svg?v=1" width="100%" alt="Tech stack orbiting a central core, grouped by category" />
 
 **🤖 AI & Development Tools**
 <br/><br/>
@@ -51,7 +62,7 @@
 <!-- 5 · ID BADGE + LIVE SNAPSHOT -->
 ## 🪪 ID Badge & Snapshot
 
-<img src="assets/id-dashboard.svg?v=1" width="100%" alt="Developer ID badge and live snapshot dashboard" />
+<img src="id-dashboard.svg?v=1" width="100%" alt="Developer ID badge and live snapshot dashboard" />
 
 <br/>
 
@@ -62,7 +73,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<img src="assets/lawfirm.png" width="100%" />
+<img src="lawfirm.png" width="100%" />
 
 **⚖️ LawFirm**
 <br/>
@@ -77,7 +88,7 @@ Legal Management Platform · Capstone, 98/100 Gold Tier
 </td>
 <td width="33%" valign="top">
 
-<img src="assets/rifa.png" width="100%" />
+<img src="rifa.png" width="100%" />
 
 **🌱 RIFA**
 <br/>
@@ -92,7 +103,7 @@ AI-Powered Learning Platform
 </td>
 <td width="33%" valign="top">
 
-<img src="assets/najda.jpeg" width="100%" />
+<img src="najda.jpeg" width="100%" />
 
 **🩹 Najda-AI**
 <br/>
@@ -128,11 +139,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 <!-- 8 · 3D CONTRIBUTION CITY (self-hosted, refreshes daily via GitHub Action) -->
 ## 🌃 Contribution City
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib.yml">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib.yml">
-  <img src="profile-3d-contrib.yml" width="100%" alt="3D contribution city, rebuilt daily from real commit history" />
-</picture>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city, rebuilt daily from real commit history" />
 
 <sub>Generated and committed automatically once a day by a GitHub Action — see Setup notes below.</sub>
 
@@ -208,7 +215,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 <br/>
 
 <!-- 11 · CONNECT -->
-<img src="assets/connect.svg?v=1" width="100%" alt="Let's connect — LinkedIn and GitHub" />
+<img src="connect.svg?v=1" width="100%" alt="Let's connect — LinkedIn and GitHub" />
 
 <p align="center">
   <sub>Mona Haniyeh &nbsp;|&nbsp; Code • Design • Build • Grow 🌷</sub>
