@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- 1 · HERO -->
-<img src="hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
+<img src="assets/hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
 
 <br/>
 
@@ -30,21 +30,21 @@
 <!-- 2 · ABOUT ME (terminal) -->
 ## 🪞 About Me
 
-<img src="about-terminal.svg?v=1" width="100%" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" />
+<img src="assets/about-terminal.svg?v=1" width="100%" alt="whoami: mona-haniyeh — Full-Stack Developer & UI/UX Designer" />
 
 <br/>
 
 <!-- 3 · WHAT I BUILD + FOCUS CAROUSEL -->
 ## 🚀 What I Build
 
-<img src="about-build.svg?v=1" width="100%" alt="What I build, and current focus areas" />
+<img src="assets/about-build.svg?v=1" width="100%" alt="What I build, and current focus areas" />
 
 <br/>
 
 <!-- 4 · TECH ORBIT -->
 ## 🛰️ Tech Stack
 
-<img src="stack.svg?v=1" width="100%" alt="Tech stack orbiting a central core, grouped by category" />
+<img src="assets/stack.svg?v=1" width="100%" alt="Tech stack orbiting a central core, grouped by category" />
 
 **🤖 AI & Development Tools**
 <br/><br/>
@@ -62,7 +62,7 @@
 <!-- 5 · ID BADGE + LIVE SNAPSHOT -->
 ## 🪪 ID Badge & Snapshot
 
-<img src="id-dashboard.svg?v=1" width="100%" alt="Developer ID badge and live snapshot dashboard" />
+<img src="assets/id-dashboard.svg?v=1" width="100%" alt="Developer ID badge and live snapshot dashboard" />
 
 <br/>
 
@@ -73,7 +73,7 @@
 <tr>
 <td width="33%" valign="top">
 
-<img src="lawfirm.png" width="100%" />
+<img src="assets/lawfirm.png" width="100%" />
 
 **⚖️ LawFirm**
 <br/>
@@ -88,7 +88,7 @@ Legal Management Platform · Capstone, 98/100 Gold Tier
 </td>
 <td width="33%" valign="top">
 
-<img src="rifa.png" width="100%" />
+<img src="assets/rifa.png" width="100%" />
 
 **🌱 RIFA**
 <br/>
@@ -103,7 +103,7 @@ AI-Powered Learning Platform
 </td>
 <td width="33%" valign="top">
 
-<img src="najda.jpeg" width="100%" />
+<img src="assets/najda.jpeg" width="100%" />
 
 **🩹 Najda-AI**
 <br/>
@@ -215,7 +215,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 <br/>
 
 <!-- 11 · CONNECT -->
-<img src="connect.svg?v=1" width="100%" alt="Let's connect — LinkedIn and GitHub" />
+<img src="assets/connect.svg?v=1" width="100%" alt="Let's connect — LinkedIn and GitHub" />
 
 <p align="center">
   <sub>Mona Haniyeh &nbsp;|&nbsp; Code • Design • Build • Grow 🌷</sub>
