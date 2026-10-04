@@ -9,7 +9,19 @@
 
 <!-- 1 · HERO -->
 <img src="assets/hero.svg?v=1" width="100%" alt="Mona Haniyeh — Full-Stack Laravel Developer, learning React, UI/UX Designer" />
+
 <br/>
+
+<a href="https://www.linkedin.com/in/mona-haniyeh">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=FF4DA6" />
+</a>
+<a href="https://github.com/MonaHaniyeh">
+  <img src="https://img.shields.io/badge/GitHub-1a1b2e?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+<br/><br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MonaHaniyeh.MonaHaniyeh&left_text=PROFILE%20VIEWS" />
 
 </div>
 
@@ -148,7 +160,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 
 > **Full-Stack Laravel Training**
 > Robotna & DigiSkills
-> <sub>May 2026 – Sep 2026</sub>
+> <sub>May 2026 – Present</sub>
 
 > **UI/UX Design**
 > The Hope International Company
@@ -203,7 +215,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 <br/>
 
 <!-- 11 · CONNECT -->
-<img src="assets/connect.svg" width="100%" alt="Let's connect — LinkedIn and GitHub" />
+<img src="assets/connect.svg?v=3" width="100%" alt="Let's connect — LinkedIn and GitHub" />
 
 <p align="center">
   <sub>Mona Haniyeh &nbsp;|&nbsp; Code • Design • Build • Grow 🌷</sub>
