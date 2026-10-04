@@ -203,7 +203,7 @@ Intelligent First Aid Assistant — Kanz AI Training Hackathon (LAU Academy)
 <br/>
 
 <!-- 11 · CONNECT -->
-<img src="assets/connect.svg?v=1" width="100%" alt="Let's connect — LinkedIn and GitHub" />
+<img src="assets/connect.svg?v=3" width="100%" alt="Let's connect — LinkedIn and GitHub" />
 
 <p align="center">
   <sub>Mona Haniyeh &nbsp;|&nbsp; Code • Design • Build • Grow 🌷</sub>
